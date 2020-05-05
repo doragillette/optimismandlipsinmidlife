@@ -1,0 +1,9 @@
+// optimism.lipids
+
+...
+"config":{
+  "age":"1",
+  "age":"<age>",
+  "lipids_age_key":"<SAUCE_ACCESS_KEY>"
+},
+...
